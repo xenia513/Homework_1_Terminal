@@ -1,16 +1,16 @@
 #!/bin/bash
 /c/Users/User/desktop
 
-cd homework_1 # Зайти в папку
+cd homework_1 # Р—Р°Р№С‚Рё РІ РїР°РїРєСѓ
 
-mkdir test1 test2 test3 # Создать 3 папки
+mkdir test1 test2 test3 # РЎРѕР·РґР°С‚СЊ 3 РїР°РїРєРё
 
-cd test1 # Зайти в любую папку
+cd test1 # Р—Р°Р№С‚Рё РІ Р»СЋР±СѓСЋ РїР°РїРєСѓ
 
-touch tst1.txt tst2.txt tst3.txt json1.json json2.json # Создать 5 файлов 
+touch tst1.txt tst2.txt tst3.txt json1.json json2.json # РЎРѕР·РґР°С‚СЊ 5 С„Р°Р№Р»РѕРІ 
 
-mkdir test_1 test_2 test_3 # Создать 3 папки
+mkdir test_1 test_2 test_3 # РЎРѕР·РґР°С‚СЊ 3 РїР°РїРєРё
 
-ls -la # вывести список содержимого папки
+ls -la # РІС‹РІРµСЃС‚Рё СЃРїРёСЃРѕРє СЃРѕРґРµСЂР¶РёРјРѕРіРѕ РїР°РїРєРё
 
-mv {tst1.txt,tst2.txt} test_2 # переместить 2 файла в другую папку
+mv {tst1.txt,tst2.txt} test_2 # РїРµСЂРµРјРµСЃС‚РёС‚СЊ 2 С„Р°Р№Р»Р° РІ РґСЂСѓРіСѓСЋ РїР°РїРєСѓ
